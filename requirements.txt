@@ -1,4 +1,4 @@
 flask-apscheduler==1.13.1
 Flask-cors==5.0.0
 vecto-sdk==0.2.3
-flask==3.0.2
+flask==3.0.3
